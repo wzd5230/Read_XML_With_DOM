@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<tel>
+	<tel-list>
+		<name id="01" kiss="no">Lily</name>
+		<age>18</age>
+		<sex>female</sex>
+		<phone>15212228901</phone>
+	</tel-list>
+	<tel-list>
+		<name id="02" kiss="yes">Lucy</name>
+		<age>19</age>
+		<sex>male</sex>
+		<phone>15956440893</phone>
+	</tel-list>
+</tel>
