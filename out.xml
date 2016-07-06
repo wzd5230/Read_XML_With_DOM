@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ip_config><floor><number>0001</number><IP_address>192.168.111.2</IP_address></floor><floor><number endian="smallendian" weather="rain">0001</number><IP_address>192.168.111.2</IP_address></floor></ip_config>
