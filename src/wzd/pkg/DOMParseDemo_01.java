@@ -59,7 +59,7 @@ public class DOMParseDemo_01 {
 		}
 		
 		//打印该xml文件中所有的信息
-		System.out.println("========print all elements in xml file----------");
+		System.out.println("======== Print all elements in xml file----------");
 		
 		Node telNode =  doc.getFirstChild();
 		
