@@ -76,6 +76,7 @@ public class DOM4JCreateXMLDemo_01 {
 
 			output.write(document);
 			output.close();
+			
 			System.out.println("create XML success!");
 		} catch (Exception e) {
 
