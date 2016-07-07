@@ -33,7 +33,8 @@ public class JDOMReadXMLDemo_01 {
         Element rootElement = doc.getRootElement();
         System.out.println(rootElement.getName());
         
-        List<Element> tellistList = rootElement.getChildren();
+        @SuppressWarnings("unchecked")
+		List<Element> tellistList = rootElement.getChildren();
         
         for( int index=0;index<tellistList.size();index++){
         	//name age sex phone
